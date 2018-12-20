@@ -1,10 +1,10 @@
 {
-  "name": "reynaldo",
-  "version": "1.1.3",
-  "description": "A personal card for Christopher Cedeno (reynaldo)",
+  "name": "reynld",
+  "version": "1.1.4",
+  "description": "A personal card for Christopher Cedeno (reynld)",
   "main": "index.js",
   "bin": {
-    "reynaldo": "./bin/card.js"
+    "reynld": "./bin/card.js"
   },
   "repository": {
     "type": "git",
